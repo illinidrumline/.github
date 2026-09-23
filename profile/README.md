@@ -46,6 +46,10 @@ The Alumni Drumline Scholarship is an endowed fund managed by the University of 
 
 This GitHub organization hosts the Illini Drumline's public code and tooling. Our community standards live in [`.github`](https://github.com/illinidrumline/.github).
 
+| Project | Description |
+| --- | --- |
+| [open-tenor-pad](https://github.com/illinidrumline/open-tenor-pad) | Open-source hardware for a marching tenor practice pad: documented, buildable, sensor-ready. |
+
 ---
 
 <sub>Illini Drumline is a section of the Marching Illini at the University of Illinois Urbana-Champaign. Colors and type follow the [Illinois brand guidelines](https://brand.illinois.edu).</sub>
