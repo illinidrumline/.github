@@ -4,7 +4,7 @@
 
 # Illini Drumline
 
-**The Nation’s Premier — Section of the Marching Illini**
+**The Marching Illini Drumline**<br />
 University of Illinois Urbana-Champaign
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/illinidrumline/)
@@ -16,30 +16,19 @@ University of Illinois Urbana-Champaign
 
 ---
 
-The **Illini Drumline** is the percussion section of the [Marching Illini](https://marchingillini.com), the official marching band of the University of Illinois Urbana-Champaign. It has become an icon for Fighting Illini Football, performing at several locations across campus on game day — from the public warm-up and pregame show to halftime and the post-game concert.
-
-## The section
-
-| Instrument | Spots |
-| --- | --- |
-| Snares | 12 |
-| Tenors | 6 |
-| Basses | 7 |
-| Cymbals | 12 |
-
-Spots are earned through the spring audition process and finalized at August preseason camp.
+The **Illini Drumline** is the percussion section of the [Marching Illini](https://marchingillini.com), the official marching band of the University of Illinois Urbana-Champaign. An icon for Fighting Illini Football, the drumline performs at several locations throughout game day and is highly recognizable to football fans. It carries a strong history, a tradition of excellence, and a fan base that reaches across campus and the college marching band world.
 
 ## The Party Chicken
 
-Mascot of the Illini Drumline since **1984**.
+The **Party Chicken**, a pink lawn flamingo, has been the mascot of the Illini Drumline since **1984**.
 
 > Cool social leader who is always ready to party. Wearing shades and sipping a martini, the Chicken is unflappable.
 
-The Party Chicken travels with the line, appears on most of our merchandise, and is front and center at performances.
+The Chicken travels with the line, appears on most of our merchandise, and stands front and center at performances.
 
 ## Alumni Drumline Scholarship
 
-An endowed scholarship, managed by the University of Illinois Foundation, supports an annual award for a deserving member of the drumline.
+The Alumni Drumline Scholarship is an endowed fund managed by the University of Illinois Foundation; it supports an annual award for a deserving member of the line.
 
 **[Give to the Alumni Drumline Scholarship →](https://www.givecampus.com/campaigns/49878/donations/new)**
 
@@ -55,7 +44,7 @@ An endowed scholarship, managed by the University of Illinois Foundation, suppor
 
 ## This organization
 
-This GitHub organization hosts the Illini Drumline's public code and tooling. Start with [`.github`](https://github.com/illinidrumline/.github) for our community standards.
+This GitHub organization hosts the Illini Drumline's public code and tooling. Our community standards live in [`.github`](https://github.com/illinidrumline/.github).
 
 ---
 
